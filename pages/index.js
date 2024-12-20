@@ -1,4 +1,4 @@
-import styles from "./styles.module.css"
+import styles from "./styles.module.css";
 
 function Home() {
   return (
@@ -59,7 +59,7 @@ function Home() {
         Big nothing
       </p>
     </main>
-  )
+  );
 }
 
 export default Home;
