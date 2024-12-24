@@ -1,10 +1,10 @@
-import { container, label } from "./index.module.css";
+import { container } from "./index.module.css";
 
 function Home() {
   return (
     <>
       <main className={container}>
-        <section className={label}>
+        <section>
           <img src="/assets/under-construction.png" width="600px" />
           <p>
             A{" "}
